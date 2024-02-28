@@ -1,13 +1,16 @@
 # StableCascade-Discord
 
-This discord bot utilizes PInokio. This is one of the easiest ways to get something up and running quickly with little knowledge:
-https://github.com/pinokiocomputer/pinokio.git
+This discord bot utilizes PInokio. This is one of the easiest ways to get something up and running quickly with little knowledge:  
+[https://github.com/pinokiocomputer/pinokio.git](https://github.com/pinokiocomputer/pinokio.git)
 
-PInokio Docs:
-https://docs.pinokio.computer/
+## PInokio Docs:
 
-Stable Cascade - Local Install - SUPER EASY!
-https://www.youtube.com/watch?v=Ybu6qTbEsew&t=1s
+[https://docs.pinokio.computer/](https://docs.pinokio.computer/)
 
-Gradio Docs:
-https://www.gradio.app/docs/interface
+## Stable Cascade - Local Install - SUPER EASY!
+
+[https://www.youtube.com/watch?v=Ybu6qTbEsew&t=1s](https://www.youtube.com/watch?v=Ybu6qTbEsew&t=1s)
+
+## Gradio Docs:
+
+[https://www.gradio.app/docs/interface](https://www.gradio.app/docs/interface)
