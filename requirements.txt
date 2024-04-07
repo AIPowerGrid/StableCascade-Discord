@@ -1,3 +1,5 @@
 asyncio
 python-dotenv
 gradio_client
+nextcord
+setuptools
